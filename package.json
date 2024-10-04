@@ -1,0 +1,17 @@
+{
+  "name": "gestionclinica",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev":"npx tsc && node build/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.7.4",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.2"
+  }
+}
